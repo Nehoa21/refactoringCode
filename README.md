@@ -6,6 +6,6 @@ The purpose of this project was to practice making HTML semantic by taking exist
 
 ## Usage
 
-To view the website, click [here]().
+To view the website, click [here](https://nehoa21.github.io/refactoringCode/).
 
 ![Horiseon screenshot](./assets/images/Horiseon-screenshot.png)
